@@ -1,1 +1,1 @@
-# Perkenalkan nama saya Novita Purwonintyas, Kali ini saya akan menganalis data menggunakan bahasa pemograman Pyhton. Data yang akan di analisa merupakan dataset Kickstarter Projects yang di dapat dri Kaggle
+Perkenalkan nama saya Novita Purwonintyas, Kali ini saya akan menganalis data menggunakan bahasa pemograman Pyhton. Data yang akan di analisa merupakan dataset Kickstarter Projects yang di dapat dari Kaggle
